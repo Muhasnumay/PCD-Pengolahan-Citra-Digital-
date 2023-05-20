@@ -1,1 +1,1 @@
-# Klasifikasi Citra Buah Berdasarkan Fitur Bentuk, Warna, dan Tekstur Menggunakan Algoritma Naive Bayes 
+# Klasifikasi Citra Buah Berdasarkan Fitur Bentuk, Warna, dan Tekstur Menggunakan Algoritma Naive Bayes Menggunakan GUI
